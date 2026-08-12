@@ -4,9 +4,11 @@
       "en": "A line plot"
     }
   },
-  "labels": ["real-world programming"],
+  "labels": [
+    "real-world programming"
+  ],
   "internals": {
-    "token": "ywzBMQNGtwn4dapmRF82M8jSHRmhqJFPutGZPfyXX8i_wMp6Ef-6nr3_tXtz7B4B",
+    "token": "et322iWxTsSngjmtXeFU8yqfr_QdBZbak-EsWWyvc5C4W-HFSyjPF35FNDBKNzMQ",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
