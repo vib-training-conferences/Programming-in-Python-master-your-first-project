@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: James
+  family-names: Collier
+  affiliation: VIB
+  orcid: 0000-0002-0020-421X
+- given-names: Nina
+  family-names: Buchina
+  affiliation: 
+  orcid: 0000-0000-0000-0000
+- given-names: Tuur
+  family-names:  Muyldermans
+  affiliation: VIB
+  orcid: 0000-0002-3926-7293
+contact:
+- given-names: Frank
+  family-names: Vernaillen
+  affiliation: VIB
+  orcid: 0000-0002-9226-0103
+title: "Programming in Python: master your first project"
+version: v2026.01.14
+doi: ~
+date-released: 2026-08-18
+keywords:
+- Python
+- Programming
+- Bioinformatics
+license: CC-BY
+repository-code: https://github.com/vib-training-conferences/Programming-in-Python-master-your-first-project
+type: lesson
+abstract: "Do you want to learn programming skills that will boost your research? In this course, we introduce you to the Python programming language, starting from the very basics. You will explore core programming concepts through a mix of live online sessions, guided practical afternoons, and self-paced exercises. We emphasize hands-on learning in a supportive environment where you can ask plenty of questions. By the end of the course, you will be able to read, modify, and write Python programs and feel confident continuing with more advanced programming topics."
+identifiers:
+- type: url
+  value: https://github.com/vib-training-conferences/Programming-in-Python-master-your-first-project
+  version: v2026.01.14

@@ -1,0 +1,58 @@
+{
+  "title": "Programming in Python: master your first project",
+  "version": "v2026.01.14",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>Do you want to learn programming skills that will boost your research? In this course, we introduce you to the Python programming language, starting from the very basics. You will explore core programming concepts through a mix of live online sessions, guided practical afternoons, and self-paced exercises. We emphasize hands-on learning in a supportive environment where you can ask plenty of questions. By the end of the course, you will be able to read, modify, and write Python programs and feel confident continuing with more advanced programming topics.<\/p>",
+  "keywords": [
+    "Python",
+    "Programming",
+    "Bioinformatics"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Collier, James",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-0020-421X",
+      "type": "relatedperson"
+    },
+    {
+      "name": "Buchina, Nina",
+      "affiliation": "",
+      "orcid": "",
+      "type": "relatedperson"
+    },
+    {
+      "name": "Muyldermans, Tuur",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-3926-7293",
+      "type": "relatedperson"
+    },
+      {
+      "name": "Vernaillen, Frank",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-9226-0103",
+      "type": "relatedperson"
+    },
+    {
+      "name": "Piereck, Bruna",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-5958-0669",
+      "type": "contactperson"
+    }
+
+  ],
+  "communities": [
+    {
+      "identifier": "vib-training-conferences"
+    }
+  ]
+}
