@@ -1,7 +1,7 @@
 <!--
-author:   name last_name
+author:   James Collier, Nina Buchina, Tuur Muyldermans, Frank Vernaillen
 email:    trainingandconferences@vib.be
-version:  2.0.0
+version:  6.0.0
 language: en
 narrator: UK English Female
 
@@ -24,13 +24,13 @@ link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 link:  https://raw.githubusercontent.com/vib-tcp/material-liascript/master/vib-styles.css
 
-@edition:  1st 
+@edition:  6st 
 @CourseTitle: replace by course title
 
 import:   https://raw.githubusercontent.com/vib-tcp/training_material_template/refs/heads/main/macro.md
 
 -->
-# Gentle Hands-on Introduction Programming
+# Programming in Python: master your first project
 
 Teaching materials for the course. This course is intended to help new
 programmers find their feet and begin them on their journeyto writing
@@ -164,49 +164,62 @@ License: [![CC BY SA](images/cc-by-sa.png)](https://creativecommons.org/licenses
     "@type": "CreativeWork",
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
   },
-  "description": "TeSS, how can I help you? This is our interactive hands-on course about efficient use of the ELIXIR TeSS platform.",
-  "keywords": "FAIR, OPEN, Bioinformatics, Teaching, TeSS",
-  "name": "TeSS, how can I help you?",
+  "description": "Do you want to learn programming skills that will boost your research? In this course, we introduce you to the Python programming language, starting from the very basics. You will explore core programming concepts through a mix of live online sessions, guided practical afternoons, and self-paced exercises. We emphasize hands-on learning in a supportive environment where you can ask plenty of questions. By the end of the course, you will be able to read, modify, and write Python programs and feel confident continuing with more advanced programming topics.",
+  "keywords": "Python, Programming, Bioinformatics",
+  "name": "Programming in Python: master your first project",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "educationalLevel": "beginner",
   "competencyRequired": "none",
   "teaches": [
-    "search events and material in TeSS via direct and faceted search",
-    "add manually and automatically events and material to TeSS",
-    "extract events and material from TeSS by using TeSS widgets"
+    "Understand core programming concepts including functions and values",
+    "Analyze programs written by peers to understand their structure and logic",
+    "Modify existing programs to improve functionality or adapt them to new tasks",
+    "Develop new programs to solve practical problems",
+    "Apply techniques to detect errors and fix problems in code"
   ],
-  "audience": "training providers",
+  "audience": "life scientists",
   "inLanguage": "en-US",
   "learningResourceType": [
-    "tutorial"
+    "lesson"
   ],
   "author": [
+    {
+      "@type": "Person",
+      "name": "James Collier"
+    },
+    {
+      "@type": "Person",
+      "name": "Nina Buchina"
+    },
+    {
+      "@type": "Person",
+      "name": " Tuur Muyldermans"
+    },
+    {
+      "@type": "Person",
+      "name": "Frank Vernaillen"
+
+    }
+
+  ],
+  "contributor": [
     {
       "@type": "Person",
       "name": "Bruna Piereck"
     },
     {
       "@type": "Person",
-      "name": "Olivier Sand"
+      "name": "Tatiana Woller"
     },
     {
       "@type": "Person",
-      "name": "Alexander Botzki"
+      "name": "Janick Mathys"
+    },
+    {
+      "@type": "Person",
+      "name": "Jolan Heyse "
     }
-  ],
-  "contributor": [
-    {
-      "@type": "Person",
-      "name": "Yasmine Maes"
-    },
-    {
-      "@type": "Person",
-      "name": "Finn Bacall"
-    },
-    {
-      "@type": "Person",
-      "name": "Munazah Andrabi"
-    }
+    
   ]
 }
 ```
