@@ -1,6 +1,6 @@
 # Fetching and storing data
 
-<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vibbits.github.io/gentle-hands-on-python/"></iframe>
+<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vib-training-conferences.github.io/Programming-in-Python-master-your-first-project/"></iframe>
 
 
 In this section you  will use 2 sources of data: the internet and files on your own computer.
