@@ -1,6 +1,6 @@
 # Indexing and slicing
 
-<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vibbits.github.io/gentle-hands-on-python/"></iframe>
+<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vib-training-conferences.github.io/Programming-in-Python-master-your-first-project/"></iframe>
 
 Lists are _ordered_ collections of values. It is sometimes necessary to work with a particular value
 within a list, requiring you to extract that value from the list. This "extract" operation is known as

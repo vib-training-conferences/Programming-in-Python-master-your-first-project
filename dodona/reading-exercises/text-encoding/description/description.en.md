@@ -1,6 +1,6 @@
 # Binary Data
 
-<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vibbits.github.io/gentle-hands-on-python/"></iframe>
+<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vib-training-conferences.github.io/Programming-in-Python-master-your-first-project/"></iframe>
 
 Your computes stores data as binary `1`'s and `0`'s. You can think of your computer memory as a really
 big list of binary digits. As a programmer, it's your job to interpret and manipulate this big list
