@@ -1,6 +1,6 @@
 # Lists
 
-<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vibbits.github.io/gentle-hands-on-python/"></iframe>
+<iframe style="width: 100%; height:380px; position:sticky; top:30px" src="https://vib-training-conferences.github.io/Programming-in-Python-master-your-first-project/"></iframe>
 
 > _"Simple is better than complex."_ [^1]
 
